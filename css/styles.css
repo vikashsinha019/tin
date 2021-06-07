@@ -119,3 +119,50 @@ h2{
     width: 15%;
     margin: 20px 20px 50px;
 }
+
+/* Pricing Section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    font-family: 'emoji';
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+h2{
+    font-family: 'Montserrat';
+}
+.card-header{
+    background-image:url(https://w.wallhaven.cc/full/k7/wallhaven-k7zrj6.png);
+    background-position: center;
+    background-size: cover;
+}
+
+/* cta section */
+
+#cta{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    
+}
+h4{
+    font-weight:400;
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+
+/* Footer Section */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+
+
